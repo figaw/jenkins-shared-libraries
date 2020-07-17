@@ -1,5 +1,6 @@
 import com.figaw.SomeHelper
 
 def thisUsesAHelperFunction(){
-    SomeHelper.aHelperFunction()
+    def sh = SomeHelper()
+    sh.aHelperFunction()
 }
