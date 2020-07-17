@@ -18,6 +18,8 @@ and use the demos as is.
 You should fork this repository and after you've carefully studying that I'm
 not mining bitcoin on your Jenkins, you can use the demos and tailor them to your needs.
 
+.. You probably shouldn't have a `Jenkinsfile` in your Shared Library 🙃
+
 ## Contributions
 
 Probably not.
