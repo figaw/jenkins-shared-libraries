@@ -1,5 +1,5 @@
 // Possible with the `GitHub Pipeline Plugin`
-@Library("github.com/figaw/jenkins-shared-libraries@master") _
+@Library("github.com/figaw/jenkins-shared-libraries@test") _
 
 def myConstant = usingStaticHelper.thisUsesAStaticHelperFunction()
 
