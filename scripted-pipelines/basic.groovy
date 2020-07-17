@@ -2,7 +2,7 @@
 @Library("github.com/figaw/jenkins-shared-libraries@test") _
 
 node {
-    stage("basic"){
+    stage("stage1"){
         echo basic.thisIsAFunction()
     }
 }

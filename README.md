@@ -1,4 +1,4 @@
-# Jenkins Shared Libraries (in Scripted Pipelines) - Examples
+# Jenkins Shared Library (in Scripted Pipelines) - Examples
 
 I created this repository because it took me a while to figure
 out how to do even the most trivial stuff with Shared Libraries.
@@ -19,6 +19,10 @@ You should fork this repository and after you've carefully studying that I'm
 not mining bitcoin on your Jenkins, you can use the demos and tailor them to your needs.
 
 .. You probably shouldn't have a `Jenkinsfile` in your Shared Library 🙃
+
+### scripted-pipelines folder
+
+A folder with examples of scripted pipelines that makes use of the library
 
 ## Contributions
 
